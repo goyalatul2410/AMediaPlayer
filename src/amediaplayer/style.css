@@ -1,0 +1,44 @@
+#openFile {
+    -fx-background-image: url("../amediaplayer/Images/open.jpg");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center center;
+    -fx-background-color: transparent;
+}
+
+#stopVideo {
+    -fx-background-image: url("../amediaplayer/Images/stop.jpg");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center center;
+    -fx-background-color: transparent;
+}
+
+#playVideo {
+    -fx-background-image: url("../amediaplayer/Images/play.jpg");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center center;
+    -fx-background-color: transparent;
+}
+
+#pauseVideo {
+    -fx-background-image: url("../amediaplayer/Images/pause.jpg");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center center;
+    -fx-background-color: transparent;
+}
+
+#volume {
+    -fx-background-image: url("../amediaplayer/Images/volume.jpg");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center center;
+    -fx-background-color: transparent;
+}
+
+#ss, #s, #f, #ff{
+    -fx-background-color: transparent;
+    
+}
